@@ -37,13 +37,13 @@
 <div id="canvas">
 <div id="box_wrapper">
 
-<!-- template sections -->
+<!-- template sctions -->
 <?php include("header.php")?>
 <section class="intro_section page_mainslider ds">
 	<div class="flexslider">
 		<ul class="slides">
 			<li>
-				<img src="images/aboutBanner.jpg" alt="">
+				<img src="images/contact.jpg" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
