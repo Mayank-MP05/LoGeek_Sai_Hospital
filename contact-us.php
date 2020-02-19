@@ -20,7 +20,7 @@
 	<link rel="stylesheet" href="css/main.css" id="color-switcher-link">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/animations.css">
-
+    <link rel="stylesheet" href="./css/contact-us.css">
 
 </head>
 <body>
@@ -72,12 +72,10 @@
 	<div class="container">
 		<div class="row topmargin_-5">
 			<div class="col-sm-12 text-center">
-				<h2 class="section_header margin_0">Contact / Appointment Form </h2>
+				<h2 class="section_header margin_0 h1-responsive font-weight-bold text-center my-4">Contact / Appointment Form </h2>
 				<hr class="main_bg_color dividersize_2_70 inline-block">
 				<section class="mb-4">
 
-    <!--Section heading-->
-    <h2 class="h1-responsive font-weight-bold text-center my-4">Contact us</h2>
     <!--Section description-->
     <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not hesitate to contact us directly. Our team will come back to you within
         a matter of hours to help you.</p>
@@ -86,7 +84,7 @@
 
         <!--Grid column-->
         <div class="col-md-9 mb-md-0 mb-5">
-            <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+            <form id="contact-form" name="contact-form" action="" method="POST">
 
                 <!--Grid row-->
                 <div class="row">
@@ -104,7 +102,7 @@
                     <div class="col-md-6">
                         <div class="md-form mb-0">
                             <input type="text" id="email" name="email" class="form-control">
-                            <label for="email" class="">Your email</label>
+                            <label for="email" class="">Your Phone<label>
                         </div>
                     </div>
                     <!--Grid column-->
@@ -117,7 +115,7 @@
                     <div class="col-md-12">
                         <div class="md-form mb-0">
                             <input type="text" id="subject" name="subject" class="form-control">
-                            <label for="subject" class="">Subject</label>
+                            <label for="subject" class="">Reason for visit</label>
                         </div>
                     </div>
                 </div>
@@ -131,7 +129,7 @@
 
                         <div class="md-form">
                             <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
-                            <label for="message">Your message</label>
+                            <label for="message">Notes for Docter</label>
                         </div>
 
                     </div>
@@ -140,7 +138,7 @@
 
             </form>
 
-            <div class="text-center text-md-left">
+            <div class="text-center text-md-right">
                 <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
             </div>
             <div class="status"></div>
@@ -150,16 +148,19 @@
         <!--Grid column-->
         <div class="col-md-3 text-center">
             <ul class="list-unstyled mb-0">
-                <li><i class="fas fa-map-marker-alt fa-2x"></i>
-                    <p>San Francisco, CA 94126, USA</p>
+                <li>
+                    <img src="./images/location.png" class="image-icon" alt="">
+                    <p>211 - PCMC , Pune</p>
                 </li>
 
-                <li><i class="fas fa-phone mt-4 fa-2x"></i>
+                <li>
+                    <img src="./images/phone-pnh.jpg" class="image-icon" alt="">
                     <p>+ 01 234 567 89</p>
                 </li>
 
-                <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-                    <p>contact@mdbootstrap.com</p>
+                <li>
+                     <img src="./images/gmail-png.png" class="image-icon" alt="">
+                    <p>contact@saihospital.com</p>
                 </li>
             </ul>
         </div>
@@ -180,7 +181,6 @@
 
 		<script src="js/compressed.js"></script>
 		<script src="js/main.js"></script>
-		
 
 	</body>
 </html>
