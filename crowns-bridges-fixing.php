@@ -11,6 +11,7 @@
 	<link rel="stylesheet" href="css/main.css" id="color-switcher-link">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/animations.css">
+	<link rel="stylesheet" href="./css/service-card.css">
 </head>
 <body>
 <div class="preloader">
@@ -24,7 +25,7 @@
 <section class="intro_section page_mainslider ds">
 	<div class="flexslider">
 		<ul class="slides">
-			<li>
+			<li class="list-group-item">
 				<img src="images/aboutBanner.jpg" alt="">
 				<div class="container">
 					<div class="row">
@@ -56,19 +57,24 @@
 				</div>
 					<!--<p>Dental implants are replacement tooth roots. Implants provide a strong foundation for fixed (permanent) or removable replacement teeth that are made to match your natural teeth.</p>-->
 					<p>Both crowns and most bridges are fixed prosthetic devices. Unlike removable devices such as dentures, which you can take out and clean daily, crowns and bridges are cemented onto existing teeth or implants, and can only be removed by a dentist.</p>
-				<h4>Symptoms :</h4>
-				<ul>
-					<li>Moves when Touched. When a dental bridge has loosened over time, it begins to move slightly when touched with either the fingers or the tongue.</li>
-					<li>Sensitivity</li>
-					<li>Bite Issues</li>
-					<li>Bad Taste in the Mouth.</li>
-				</ul>
-				<h4>Procedure :</h4>
-				<ul>
-					<li>Diagnostics and preparation of the treatment plan.</li>
-					<li>Tooth or teeth drilling, making a dental impression, colour matching, preparing a temporary crown.</li>
-					<li>Fitting and cementing the crown or a prosthetic bridge.</li>
-				</ul>				
+				<div class="row">
+					<div class="card col-sm-12 col-md-6 border border-primary"><h4>Symptoms :</h4>
+				<ul class="list-group">
+					<li class="list-group-item">Moves when Touched. When a dental bridge has loosened over time, it begins to move slightly when touched with either the fingers or the tongue.</li>
+					<li class="list-group-item">Sensitivity</li>
+					<li class="list-group-item">Bite Issues</li>
+					<li class="list-group-item">Bad Taste in the Mouth.</li>
+				</ul></div>
+
+					<div class="card col-sm-12 col-md-6 border border-primary"><h4>Procedure :</h4>
+				<ul class="list-group">
+					<li class="list-group-item">Diagnostics and preparation of the treatment plan.</li>
+					<li class="list-group-item">Tooth or teeth drilling, making a dental impression, colour matching, preparing a temporary crown.</li>
+					<li class="list-group-item">Fitting and cementing the crown or a prosthetic bridge.</li>
+				</ul>	</div>
+				</div>
+				
+							
 			</div>
 		</div>
 	</div>

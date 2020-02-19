@@ -11,6 +11,7 @@
 	<link rel="stylesheet" href="css/main.css" id="color-switcher-link">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/animations.css">
+	<link rel="stylesheet" href="./css/service-card.css">
 </head>
 <body>
 <div class="preloader">
@@ -24,7 +25,7 @@
 <section class="intro_section page_mainslider ds">
 	<div class="flexslider">
 		<ul class="slides">
-			<li>
+			<li class="list-group-item">
 				<img src="images/aboutBanner.jpg" alt="">
 				<div class="container">
 					<div class="row">
@@ -56,20 +57,24 @@
 				</div>
 					<!--<p>Dental implants are replacement tooth roots. Implants provide a strong foundation for fixed (permanent) or removable replacement teeth that are made to match your natural teeth.</p>-->
 					<p>Dental implants are now a well-accepted way of replacing missing teeth. We place them directly into your jawbone, where they provide an artificial replacement for the root of your missing tooth or teeth. They can then support crowns or dentures, in a similar way to the way that roots support natural teeth.</p>
-				<h4>Symptoms :</h4>
-				<ul>
-					<li>Severe pain or discomfort.</li>
-					<li>A loose or shifting implant.</li>
-					<li>Swelling or inflammation of the gums.</li>
-					<li>Gum recession around dental implant.</li>
-					<li>Difficulty chewing and biting.</li>
-				</ul>
-				<h4>Procedure :</h4>
-				<ul>
-					<li>Placement of the implant into your jaw and attachment of the abutment (which holds the false teeth in place) to the implant. This will be a one- or two-stage procedure.</li>
-					<li>Fusion of your new implant with the surrounding bone, which can take from six weeks to six months. You may be offered temporary artificial teeth to wear over this period.</li>
-					<li>Construction and fitting of your new artificial teeth onto your implants.</li>
-				</ul>				
+				<div class="row">
+					<div class="card col-sm-12 col-md-6 border border-primary"><h4>Symptoms :</h4>
+				<ul class="list-group">
+					<li class="list-group-item">Severe pain or discomfort.</li>
+					<li class="list-group-item">A loose or shifting implant.</li>
+					<li class="list-group-item">Swelling or inflammation of the gums.</li>
+					<li class="list-group-item">Gum recession around dental implant.</li>
+					<li class="list-group-item">Difficulty chewing and biting.</li>
+				</ul></div>
+					<div class="card col-sm-12 col-md-6 border border-primary"><h4>Procedure :</h4>
+				<ul class="list-group">
+					<li class="list-group-item">Placement of the implant into your jaw and attachment of the abutment (which holds the false teeth in place) to the implant. This will be a one- or two-stage procedure.</li>
+					<li class="list-group-item">Fusion of your new implant with the surrounding bone, which can take from six weeks to six months. You may be offered temporary artificial teeth to wear over this period.</li>
+					<li class="list-group-item">Construction and fitting of your new artificial teeth onto your implants.</li>
+				</ul></div>
+				</div>
+				
+								
 			</div>
 		</div>
 	</div>
