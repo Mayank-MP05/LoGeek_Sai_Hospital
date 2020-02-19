@@ -83,9 +83,9 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="http://placehold.it/110x110/9c27b0/fff?text=Dilip" class="img-fluid" />
-	<h3>Dilip Kevat</h3>
-	<p>Web Designer</p>
+	<img src="http://placehold.it/110x110/9c27b0/fff?text=Parag" class="img-fluid" />
+	<h3>Dr. Parag Sancheti</h3>
+	<p>Head Dental Design</p>
 	</div>
 	
 	<div class="team-back">
@@ -108,7 +108,7 @@
 	<div class="team-front">
 	<img src="http://placehold.it/110x110/336699/fff?text=Dilip" class="img-fluid" />
 	<h3>Dilip Kevat</h3>
-	<p>Web Designer</p>
+	<p>Facial neurologist</p>
 	</div>
 	
 	<div class="team-back">
@@ -129,9 +129,9 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="http://placehold.it/110x110/607d8b/fff?text=Dilip" class="img-fluid" />
-	<h3>Dilip Kevat</h3>
-	<p>Web Designer</p>
+	<img src="http://placehold.it/110x110/607d8b/fff?text=Rajesh" class="img-fluid" />
+	<h3>Rajesh Prath</h3>
+	<p>Cosmo Expert</p>
 	</div>
 	
 	<div class="team-back">
@@ -152,9 +152,9 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="http://placehold.it/110x110/4caf50/fff?text=Dilip" class="img-fluid" />
-	<h3>Dilip Kevat</h3>
-	<p>Web Designer</p>
+	<img src="http://placehold.it/110x110/4caf50/fff?text=Dhiraj" class="img-fluid" />
+	<h3>Dhiraj Sani</h3>
+	<p>Root Canal Expert</p>
 	</div>
 	
 	<div class="team-back">
@@ -175,9 +175,9 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="http://placehold.it/110x110/e91e63/fff?text=Dilip" class="img-fluid" />
-	<h3>Dilip Kevat</h3>
-	<p>Web Designer</p>
+	<img src="http://placehold.it/110x110/e91e63/fff?text=Rohit" class="img-fluid" />
+	<h3>Rohit Salve</h3>
+	<p>Eyes and Lips neurologist</p>
 	</div>
 	
 	<div class="team-back">
@@ -198,9 +198,9 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="http://placehold.it/110x110/2196f3/fff?text=Dilip" class="img-fluid" />
-	<h3>Dilip Kevat</h3>
-	<p>Web Designer</p>
+	<img src="http://placehold.it/110x110/2196f3/fff?text=Raghav" class="img-fluid" />
+	<h3>Raghav Kevat</h3>
+	<p>Hair Expert</p>
 	</div>
 	
 	<div class="team-back">
