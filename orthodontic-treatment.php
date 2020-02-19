@@ -82,16 +82,6 @@
 </section>
 <?php include("footer.php")?>
 
-<section class="page_copyright ls section_padding_25">
-	<div class="container">
-		<div class="row">
-			<div class="col-sm-12 text-center darklinks">
-				<p>All Rights Reserved &copy; 2018 - Design & Developed <i class="fa fa-heart-o highlight"></i> by <a target="_blank" href="http://logeeksolutions.in/" class="semibold">LoGeek Solutions</a></p>
-			</div>
-		</div>
-	</div>
-</section>
-
 </div><!-- eof #box_wrapper -->
 </div><!-- eof #canvas -->
 
