@@ -57,7 +57,7 @@
 
 						<!-- gallery -->
 						<li>
-							<a href="gallery-regular.html">Gallery</a>							
+							<a href="our-team.php">Our Team</a>							
 						</li>
 						<!-- eof Gallery -->
 
