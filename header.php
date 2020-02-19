@@ -69,15 +69,9 @@
 
 						<!-- contacts -->       
 						<li>
-							<a href="contact.html">Contacts</a>								
+							<a href="contact-us.php">Contact us</a>								
 						</li>
 						<!-- eof contacts -->
-
-						<!-- appointment -->
-						<li>
-							<a href="appointment.html">Appointment</a>
-						</li>
-						<!-- eof appointment -->
 						
 					</ul>
 				</nav>
