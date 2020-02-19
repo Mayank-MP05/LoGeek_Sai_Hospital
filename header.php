@@ -63,7 +63,7 @@
 
 						<!-- blog -->
 						<li>
-							<a href="blog-right.html">Blog</a>
+							<a href="#">Blog</a>
 						</li>
 						<!-- eof blog -->
 
