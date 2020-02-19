@@ -20,6 +20,7 @@
 	<link rel="stylesheet" href="css/main.css" id="color-switcher-link">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/animations.css">
+	<link rel="stylesheet" href="./css/service-card.css">
 	<!--<link rel="stylesheet" href="css/fonts.css">
 	<script src="js/vendor/modernizr-2.6.2.min.js"></script>-->
 
@@ -85,23 +86,30 @@
 				</div>
 					<p>Root canal treatment or endodontic treatment is necessary when the centre part within the tooth, known as the pulp, housing the blood vessels, nerves and living connective tissues, become infected or inflamed.</p>
 					<p>The root canal procedure is performed to save a damaged or badly infected tooth, instead of extracting it. This procedure is performed by an endodontist or a root canal specialist.</p>
-				
-				<h4>Symptoms :</h4>
-				<ul>
-					<li>Severe toothache pain upon chewing or application of pressure.</li>
-					<li>Prolonged sensitivity (pain) to hot or cold temperatures (after the heat or cold has been removed)</li>
-					<li>Discoloration (darkening) of the tooth.</li>
-					<li>Swelling and tenderness in nearby gums.</li>
-				</ul>
-				<h4>Procedure :</h4>
-				<ul>
-					<li>Step 1 - Placing the rubber dam.</li>
-					<li>Step 2 - Creating the access cavity.</li>
-					<li>Step 3 - Measuring the length of the tooth.</li>
-					<li>Step 4 - Cleaning and shaping the tooth's root canals.</li>
-					<li>Step 5 - Sealing the tooth.</li>					
-				</ul>				
-			</div>
+				<div class="row">
+					
+					<div class="card col-sm-12 col-md-6 border border-primary">
+						<h4 class="card-header">Symptoms :</h4>
+						<ul class="list-group">
+							<li class="list-group-item">Severe toothache pain upon chewing or application of pressure.</li>
+							<li class="list-group-item">Prolonged sensitivity (pain) to hot or cold temperatures (after the heat or cold has been removed)</li>
+							<li class="list-group-item">Discoloration (darkening) of the tooth.</li>
+							<li class="list-group-item">Swelling and tenderness in nearby gums.</li>
+						</ul>
+					</div>
+					
+					<div class="card col-sm-12 col-md-6 border border-primary ">
+					<h4>Procedure :</h4>
+						<ul class="list-group">
+							<li class="list-group-item" >Step 1 - Placing the rubber dam.</li>
+							<li class="list-group-item">Step 2 - Creating the access cavity.</li>
+							<li class="list-group-item">Step 3 - Measuring the length of the tooth.</li>
+							<li class="list-group-item">Step 4 - Cleaning and shaping the tooth's root canals.</li>
+							<li class="list-group-item">Step 5 - Sealing the tooth.</li>					
+						</ul>
+						</div>
+				</div>
+		   </div>
 		</div>
 	</div>
 </section>
