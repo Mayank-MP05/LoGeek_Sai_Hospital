@@ -42,7 +42,7 @@
 	<div class="flexslider">
 		<ul class="slides">
 			<li>
-				<img src="images/aboutBanner.jpg" alt="">
+				<img src="images/docter-bgimg.jpg" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
