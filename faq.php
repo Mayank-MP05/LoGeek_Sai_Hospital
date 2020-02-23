@@ -38,7 +38,22 @@
 
 <!-- template sections -->
 <?php include("header.php")?>
-
+<div class="row bg-color">
+    <h4>Frequently Asked Questions</h4>
+</div>
+<div class="container">
+    <ul class="list-group">
+        <li class="faq-tab list-group-item">Cras justo odio</li>
+        <li class="faq-tab list-group-item">Dapibus ac facilisis in</li>
+        <li class="faq-tab list-group-item">Morbi leo risus</li>
+        <li class="faq-tab list-group-item">Porta ac consectetur ac</li>
+        <li class="faq-tab list-group-item">Vestibulum at eros</li>        
+        <li class="faq-tab list-group-item">Dapibus ac facilisis in</li>
+        <li class="faq-tab list-group-item">Morbi leo risus</li>
+        <li class="faq-tab list-group-item">Porta ac consectetur ac</li>
+        <li class="faq-tab list-group-item">Vestibulum at eros</li>
+    </ul>
+</div>
 
 
 <?php include("footer.php")?>
@@ -50,6 +65,6 @@
 		<script src="js/compressed.js"></script>
 		<script src="js/main.js"></script>
 		
-
+<script src="./js/faq.js"></script>
 	</body>
 </html>
