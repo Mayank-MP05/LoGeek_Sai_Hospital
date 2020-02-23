@@ -1,0 +1,14 @@
+.bg-color {
+  background-color: #008dd2;
+  color: white;
+  margin: 10px 0;
+  padding: 10px 10px;
+}
+
+.bg-color > h4 {
+  color: white;
+}
+
+.img-card {
+  margin: 10px 0;
+}
