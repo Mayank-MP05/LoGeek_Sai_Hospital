@@ -47,7 +47,85 @@
 
 <!-- template sections -->
 <?php include("header.php")?>
+<div class="row bg-color">
+        <h4>Customer Reviews</h4>
+        <p>“A customer talking about their experience with you is worth ten times that which you write or say about yourself.”</p>
+    </div>
+<div class="container">
 
+<div class="card col-12 bg-dark text-center review-card border ">
+        <div class="card-header">
+            <h4>Amazing and humble doctor!</h4>
+        </div>
+        <hr>
+        <div class="card-body">
+            <p class="card-text">Took my Mom for dentures. Amazing and humble doctor with good explanation skills. Would highly recommend especially if you have senior citizens.</p>
+        </div>
+        <hr>
+        <div>Sujeet</div>
+    </div>
+
+    <div class="card col-12 bg-dark text-center review-card border ">
+        <div class="card-header">
+            <h4>Amazing and humble doctor!</h4>
+        </div>
+        <hr>
+        <div class="card-body">
+            <p class="card-text">Took my Mom for dentures. Amazing and humble doctor with good explanation skills. Would highly recommend especially if you have senior citizens.</p>
+        </div>
+        <hr>
+        <div>Sujeet</div>
+    </div>
+
+    <div class="card col-12 bg-dark text-center review-card border ">
+        <div class="card-header">
+            <h4>Amazing and humble doctor!</h4>
+        </div>
+        <hr>
+        <div class="card-body">
+            <p class="card-text">Took my Mom for dentures. Amazing and humble doctor with good explanation skills. Would highly recommend especially if you have senior citizens.</p>
+        </div>
+        <hr>
+        <div>Sujeet</div>
+    </div>
+
+    <div class="card col-12 bg-dark text-center review-card border ">
+        <div class="card-header">
+            <h4>Amazing and humble doctor!</h4>
+        </div>
+        <hr>
+        <div class="card-body">
+            <p class="card-text">Took my Mom for dentures. Amazing and humble doctor with good explanation skills. Would highly recommend especially if you have senior citizens.</p>
+        </div>
+        <hr>
+        <div>Sujeet</div>
+    </div>
+
+    <div class="card col-12 bg-dark text-center review-card border ">
+        <div class="card-header">
+            <h4>Amazing and humble doctor!</h4>
+        </div>
+        <hr>
+        <div class="card-body">
+            <p class="card-text">Took my Mom for dentures. Amazing and humble doctor with good explanation skills. Would highly recommend especially if you have senior citizens.</p>
+        </div>
+        <hr>
+        <div>Sujeet</div>
+    </div>
+
+    <div class="card col-12 bg-dark text-center review-card border ">
+        <div class="card-header">
+            <h4>Amazing and humble doctor!</h4>
+        </div>
+        <hr>
+        <div class="card-body">
+            <p class="card-text">Took my Mom for dentures. Amazing and humble doctor with good explanation skills. Would highly recommend especially if you have senior citizens.</p>
+        </div>
+        <hr>
+        <div>Sujeet</div>
+    </div>
+
+</div>
 
 <?php include("footer.php")?>
 

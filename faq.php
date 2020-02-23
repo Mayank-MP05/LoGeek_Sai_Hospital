@@ -38,20 +38,7 @@
 
 <!-- template sections -->
 <?php include("header.php")?>
-<div class="container">
-    <div class="row bg-color">
-        <h4>Customer Reviews</h4>
-    </div>
-    <div class="row card-deck">
-    <div class="card bg-info mb-3 col-12 m-max">
-        <div class="card-header">Header</div>
-        <div class="card-body">
-            <h5 class="card-title">Danger card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
-    </div>
-    </div>
-</div>
+
 
 
 <?php include("footer.php")?>
