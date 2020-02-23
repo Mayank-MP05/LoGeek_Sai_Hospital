@@ -55,9 +55,21 @@
 						</li>
 						<!-- eof services -->
 
-						<!-- gallery -->
+						<!-- gallery 
 						<li>
 							<a href="our-team.php">Our Team</a>							
+						</li>
+-->
+						<li>
+							<a href="gallery.php">Gallery</a>							
+						</li>
+						<!--- Review Page -->
+						<li>
+							<a href="review.php">reviews</a>							
+						</li>
+						<!--- FAQ Page -->
+						<li>
+							<a href="faq.php">FAQ's</a>							
 						</li>
 						<!-- eof Gallery -->
 
