@@ -3,8 +3,10 @@
 		<div class="row">
 			<div class="col-lg-3 col-md-4 col-xs-12">
 				<a href="./" class="logo top_logo">
-			    	<span class="logo-image"></span>
-			    	<h1>Sai Clinic</h1>
+			    	<span class="logo-image">
+						<img src="./img/facendental_logo.png" alt="" class="logo-img">
+					</span>
+			    	<h1></h1>
 				</a>
 				<!-- header toggler -->
 				<span class="toggle_menu"><span></span></span>
